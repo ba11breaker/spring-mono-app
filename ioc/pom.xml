@@ -181,7 +181,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.6.0</version>
                 <configuration>
-                    <mainClass>com.ba11breaker.spring.basic_dl.b_bytype.QuickStartByTypeApplication</mainClass>
+                    <mainClass>com.ba11breaker.spring.basic_di.a_quickstart_set.QuickstartInjectBySetXmlApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
