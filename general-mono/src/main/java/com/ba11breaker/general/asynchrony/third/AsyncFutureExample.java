@@ -1,4 +1,4 @@
-package com.ba11breaker.general.asynchrony;
+package com.ba11breaker.general.asynchrony.third;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
