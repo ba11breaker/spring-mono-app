@@ -33,7 +33,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.6.0</version>
           <configuration>
-              <mainClass>com.ba11breaker.general.App</mainClass>
+              <mainClass>com.ba11breaker.general.kingofconcurrency.bronze.ExceptionMain</mainClass>
           </configuration>
           <executions>
               <execution>
